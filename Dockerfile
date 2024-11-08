@@ -36,3 +36,4 @@ CMD /app/derper -hostname=$DERP_DOMAIN \
     -stun=$DERP_STUN  \
     -http-port=$DERP_HTTP_PORT \
     -verify-clients=$DERP_VERIFY_CLIENTS
+    
